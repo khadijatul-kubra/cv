@@ -1,0 +1,74 @@
+.container {
+width: 80%;
+margin:0 auto;
+}
+.picture {
+   margin-top: 20px;
+height: 90px;
+width: 80px;
+border: 1px solid black;
+margin-left: 1100px;
+text-align: center;
+}
+.main{
+text-align: center;
+
+}
+.ex {
+   font-size: 10px;
+   background-color: cornflowerblue;
+   text-decoration-line: underline;
+   width: 10%;
+}
+.ad {
+font-size: 15px;
+background-color: cornflowerblue;
+text-decoration-line: underline;
+width:20%
+
+}
+.table {
+border: 5px;
+width: 6px;
+}
+
+.main2>h1 {
+font-size:20px;
+background-color: cornflowerblue;
+text-decoration-line: underline;
+width:10%;
+
+}
+.main2>p {
+   font-size: large;
+}
+.pi {
+font-size:12px ;
+background-color: cornflowerblue;
+text-decoration-line:underline ;
+width:18% ;
+}
+.name{
+text-decoration: none;
+
+}
+.ad2{
+
+   font-size: 13px;
+   background-color: cornflowerblue;
+   text-decoration-line: underline;
+   width:8% ;
+}
+
+.pa {
+   font-size: 20px;
+}
+
+.ci {
+font-size: 12px;
+background-color: cornflowerblue;
+text-decoration-line: underline;
+width: 18%;
+}
+
+
